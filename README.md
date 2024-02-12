@@ -6,7 +6,7 @@ A bank company currently facing some issues regarding churning customers. To fac
 Pandas, scikit-learn, matplotlib, seaborn, streamlit, Hugging Face, Looker, BigQuery
 
 # **Prediction Web**
-[Churn Prediction Web]([https://lookerstudio.google.com/reporting/fda9f4ee-7b07-4d62-a910-de031a2211e6](https://huggingface.co/spaces/hammammahdy/bank_customers_churn_prediction))
+[Churn Prediction Web](https://huggingface.co/spaces/hammammahdy/bank_customers_churn_prediction)
 
 # **Google Looker Analytics Dashboard**
 [Churn Analytics Dashboard](https://lookerstudio.google.com/reporting/fda9f4ee-7b07-4d62-a910-de031a2211e6)
