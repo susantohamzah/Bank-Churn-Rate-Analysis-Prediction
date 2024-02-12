@@ -12,4 +12,4 @@ Pandas, scikit-learn, matplotlib, seaborn, streamlit, Hugging Face, Looker, BigQ
 [Churn Analytics Dashboard](https://lookerstudio.google.com/reporting/fda9f4ee-7b07-4d62-a910-de031a2211e6)
 
 # **Analysis Slide**
-[Download Slide Here]([https://docs.google.com/presentation/d/16IsHyTlZeHITvP_m_WnhH-w6HvIiv-zH1C1KbYPu_0o/edit?usp=sharing](https://docs.google.com/presentation/d/16IsHyTlZeHITvP_m_WnhH-w6HvIiv-zH1C1KbYPu_0o/edit?usp=sharing)https://docs.google.com/presentation/d/16IsHyTlZeHITvP_m_WnhH-w6HvIiv-zH1C1KbYPu_0o/edit?usp=sharing)
+[Download Slide Here]((https://docs.google.com/presentation/d/16IsHyTlZeHITvP_m_WnhH-w6HvIiv-zH1C1KbYPu_0o/edit?usp=sharing)https://docs.google.com/presentation/d/16IsHyTlZeHITvP_m_WnhH-w6HvIiv-zH1C1KbYPu_0o/edit?usp=sharing)
